@@ -104,9 +104,20 @@ Designed a multi-zone data platform for a fictional Ireland-Brazil fintech proce
 
 ![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelodafonsecaoliveira-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodafonsecaoliveira-coder&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+
+### 💻 Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Expert-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodafonsecaoliveira-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 </div>
+```
+
 
 ---
 
