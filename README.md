@@ -117,7 +117,92 @@ Designed a multi-zone data platform for a fictional Ireland-Brazil fintech proce
 
 </div>
 ```
+---
+<div align="center">
 
+### Core Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Cloud & Data Engineering
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Python Libraries & Tools
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Apache Beam](https://img.shields.io/badge/Apache%20Beam-FF6600?style=for-the-badge&logo=apache&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Code Portfolio
+
+<table align="center">
+<tr>
+  <th>Language</th>
+  <th>Lines of Code</th>
+  <th>Use Cases</th>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/> <b>SQL</b></td>
+  <td><b>500+ lines</b></td>
+  <td>
+    • BigQuery schemas & star models<br>
+    • Fraud detection queries<br>
+    • Performance optimization
+  </td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <b>Python</b></td>
+  <td><b>400+ lines</b></td>
+  <td>
+    • ETL pipelines (Apache Beam)<br>
+    • Data validation & quality<br>
+    • PII tokenization (GDPR)
+  </td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black"/> <b>Power BI</b></td>
+  <td><b>4+ years</b></td>
+  <td>
+    • Production dashboards<br>
+    • Executive reporting<br>
+    • 70% efficiency improvement
+  </td>
+</tr>
+</table>
+
+### 💼 Real-World Experience
+
+Beyond what's visible in GitHub repositories, my professional toolkit includes:
+- **SQL** (1+ years): Complex queries, stored procedures, data warehousing
+- **Power BI** (4+ years): Production dashboards used by C-level executives
+- **Python** (1+ years): Pandas, NumPy, data automation, ETL pipelines
+- **Excel** (10+ years): Advanced formulas, pivot tables, VBA macros
+
+*Note: GitHub language stats may not reflect enterprise work done in private repositories.*
+
+---
+
+## 🚀 GitHub Activity
+
+![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelodafonsecaoliveira-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=GitHub%20Contributions)
+
+<div align="center">
+
+*Building production-grade data solutions | Open to Data Analyst opportunities in Dublin*
+
+</div>
 
 ---
 
