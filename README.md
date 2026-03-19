@@ -64,7 +64,7 @@ Now I'm **formalizing what I've always done intuitively** — turning messy oper
 </tr>
 <tr>
   <td><img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/> <b>SQL</b></td>
-  <td><b>6+ years</b><br>500+ lines in repos</td>
+  <td><b>1+ years</b><br>500+ lines in repos</td>
   <td>
     • BigQuery schemas & star models<br>
     • Fraud detection queries (P99 <1s)<br>
@@ -74,7 +74,7 @@ Now I'm **formalizing what I've always done intuitively** — turning messy oper
 </tr>
 <tr>
   <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <b>Python</b></td>
-  <td><b>2+ years</b><br>400+ lines in repos</td>
+  <td><b>1+ years</b><br>400+ lines in repos</td>
   <td>
     • ETL pipelines (Apache Beam)<br>
     • Data validation & quality checks<br>
