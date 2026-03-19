@@ -25,25 +25,105 @@ Now I'm **formalizing what I've always done intuitively** — turning messy oper
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack & Expertise
 
-### **Analytics & BI**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+<div align="center">
+
+### Core Technologies
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### **Cloud & Data Engineering**
+### Cloud & Data Engineering
+
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### **Data Tools**
-- **Visualization**: Power BI, Tableau, Looker Studio
-- **Databases**: SQL Server, BigQuery, PostgreSQL
-- **Python Libraries**: Pandas, NumPy, Matplotlib
-- **Workflow**: dbt, Dataflow, Cloud Composer (Airflow)
-- **Governance**: GDPR compliance, data quality frameworks
+### Python Libraries & Tools
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Apache Beam](https://img.shields.io/badge/Apache%20Beam-FF6600?style=for-the-badge&logo=apache&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Code Portfolio & Experience
+
+<table align="center">
+<tr>
+  <th>Technology</th>
+  <th>Experience</th>
+  <th>Real-World Applications</th>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/> <b>SQL</b></td>
+  <td><b>6+ years</b><br>500+ lines in repos</td>
+  <td>
+    • BigQuery schemas & star models<br>
+    • Fraud detection queries (P99 <1s)<br>
+    • Complex JOINs & window functions<br>
+    • Performance optimization
+  </td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <b>Python</b></td>
+  <td><b>2+ years</b><br>400+ lines in repos</td>
+  <td>
+    • ETL pipelines (Apache Beam)<br>
+    • Data validation & quality checks<br>
+    • PII tokenization (GDPR compliant)<br>
+    • Pandas/NumPy data analysis
+  </td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black"/> <b>Power BI</b></td>
+  <td><b>4+ years</b><br>Production dashboards</td>
+  <td>
+    • Built dashboards from scratch<br>
+    • Executive reporting for C-level<br>
+    • 70% process efficiency improvement<br>
+    • DAX, Power Query, data modeling
+  </td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/> <b>Excel</b></td>
+  <td><b>10+ years</b><br>Advanced level</td>
+  <td>
+    • Complex formulas & pivot tables<br>
+    • VBA macros for automation<br>
+    • Financial modeling & forecasting<br>
+    • Operational reporting templates
+  </td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/> <b>GCP</b></td>
+  <td><b>Academic + Projects</b><br>Production patterns</td>
+  <td>
+    • BigQuery lakehouse architecture<br>
+    • Pub/Sub, Dataflow, Cloud Storage<br>
+    • Vertex AI ML pipelines<br>
+    • Multi-zone medallion design
+  </td>
+</tr>
+</table>
+
+### 💼 Beyond GitHub
+
+My professional experience extends far beyond public repositories:
+- **SQL**: 1+ years writing complex queries, stored procedures, database optimization
+- **Power BI**: 4+ years building production dashboards for executive decision-making
+- **Python**: 1+ years for data automation, ETL processes, and analysis (Pandas, NumPy)
+- **Excel**: 10+ years with advanced formulas, pivot tables, and VBA macros
+- **Team Leadership**: Supervised operations teams, presented to C-level stakeholders
+
+*GitHub repos show recent projects. Enterprise work was in private repositories.*
 
 ---
 
@@ -94,113 +174,22 @@ Designed a multi-zone data platform for a fictional Ireland-Brazil fintech proce
 - Real-time fraud detection via BigQuery ML (AUC >0.85)
 - Federated governance with DataHub lineage tracking
 
+**Code Highlights**:
+- 📄 **500+ lines SQL**: Star schema design, fraud detection queries
+- 🐍 **400+ lines Python**: ETL pipelines, data validation, PII tokenization
+- 📊 **Complete documentation**: Technical specs, architecture diagrams
+
 [📄 Read Full Technical Documentation](https://github.com/marcelodafonsecaoliveira-coder/Brarish-Data-Architecture)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelodafonsecaoliveira-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-<div align="center">
-
-### 💻 Languages & Tools
-
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodafonsecaoliveira-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-</div>
-```
----
-<div align="center">
-
-### Core Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### Cloud & Data Engineering
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### Python Libraries & Tools
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Apache Beam](https://img.shields.io/badge/Apache%20Beam-FF6600?style=for-the-badge&logo=apache&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-
-</div>
-
----
-
-## 📊 Code Portfolio
-
-<table align="center">
-<tr>
-  <th>Language</th>
-  <th>Lines of Code</th>
-  <th>Use Cases</th>
-</tr>
-<tr>
-  <td><img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/> <b>SQL</b></td>
-  <td><b>500+ lines</b></td>
-  <td>
-    • BigQuery schemas & star models<br>
-    • Fraud detection queries<br>
-    • Performance optimization
-  </td>
-</tr>
-<tr>
-  <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <b>Python</b></td>
-  <td><b>400+ lines</b></td>
-  <td>
-    • ETL pipelines (Apache Beam)<br>
-    • Data validation & quality<br>
-    • PII tokenization (GDPR)
-  </td>
-</tr>
-<tr>
-  <td><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black"/> <b>Power BI</b></td>
-  <td><b>4+ years</b></td>
-  <td>
-    • Production dashboards<br>
-    • Executive reporting<br>
-    • 70% efficiency improvement
-  </td>
-</tr>
-</table>
-
-### 💼 Real-World Experience
-
-Beyond what's visible in GitHub repositories, my professional toolkit includes:
-- **SQL** (1+ years): Complex queries, stored procedures, data warehousing
-- **Power BI** (4+ years): Production dashboards used by C-level executives
-- **Python** (1+ years): Pandas, NumPy, data automation, ETL pipelines
-- **Excel** (10+ years): Advanced formulas, pivot tables, VBA macros
-
-*Note: GitHub language stats may not reflect enterprise work done in private repositories.*
 
 ---
 
 ## 🚀 GitHub Activity
 
-![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelodafonsecaoliveira-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=GitHub%20Contributions)
-
 <div align="center">
 
-*Building production-grade data solutions | Open to Data Analyst opportunities in Dublin*
+![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelodafonsecaoliveira-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=GitHub%20Contributions)
+
+![Profile Views](https://komarev.com/ghpvc/?username=marcelodafonsecaoliveira-coder&color=blue&style=flat-square)
 
 </div>
 
@@ -299,8 +288,6 @@ I'm seeking **Data Analyst, Business Analyst, or BI Analyst** roles where I can:
 [📧 Email Me](mailto:marcelo.dafonsecaoliveira@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/ofonsecamarcelo) | [📂 View Projects](https://github.com/marcelodafonsecaoliveira-coder?tab=repositories)
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=marcelodafonsecaoliveira-coder&color=blue&style=flat-square)
 
 **Last Updated**: March 2026
 
